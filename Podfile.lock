@@ -1,0 +1,12 @@
+PODS:
+  - SYFavoriteButton (1.1)
+
+DEPENDENCIES:
+  - SYFavoriteButton
+
+SPEC CHECKSUMS:
+  SYFavoriteButton: 9e1ec437f1aec618c2282439a46d75208afd38e4
+
+PODFILE CHECKSUM: a0aad95397d17d510c41d163368b15ecfec4b27a
+
+COCOAPODS: 1.2.0
